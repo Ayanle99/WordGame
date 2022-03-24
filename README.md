@@ -4,7 +4,5 @@ Java Swing app is sorta Worlde clone.
 
 App Pics             |  Pictures
 :-------------------------:|:-------------------------:
-![](https://github.com/Ayanle99/WordGame/blob/master/src/WordGame/pics/first_pic.png)  
-|  
-![](https://github.com/Ayanle99/WordGame/blob/master/src/WordGame/pics/second_pic.png)
-
+![](https://github.com/Ayanle99/WordGame/blob/master/src/WordGame/pics/first_pic.png)  |  ![](https://github.com/Ayanle99/WordGame/blob/master/src/WordGame/pics/second_pic.png)
+![](https://github.com/Ayanle99/WordGame/blob/master/src/WordGame/pics/third_pic.png) | ![](https://github.com/Ayanle99/WordGame/blob/master/src/WordGame/pics/fourth_pic.png)
