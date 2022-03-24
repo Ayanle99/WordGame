@@ -135,17 +135,6 @@ public class Controller {
         if (model.getAttempts() >= 6){
             getCorrectWord();
 
-            Color[] colors = {
-              Color.yellow, Color.green,Color.orange,
-              Color.pink
-            };
-
-            for (int i =0;i< colors.length;i++){
-                view.getMainPanel().setBackground(colors[i]);
-                view.getMainPanel().updateUI();
-            }
-
-
         }
     }
 

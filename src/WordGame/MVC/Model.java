@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Model {
 
-    private String FILE_PATH = "/Users/max/IdeaProjects/SideProject/src/WordGame/words.txt";
+    private String FILE_PATH = "src/WordGame/words.txt";
     private Random random = new Random();
     private ArrayList<String> words = new ArrayList<>();
 
