@@ -1,6 +1,9 @@
 This is a word game I created to practice my English spelling skills. This 
 Java Swing app is sorta Worlde clone. 
 
+-> Check out my YouTube channel for more programming tutorials. My YouTube link is:
+https://www.youtube.com/channel/UC_7sedpkwbotqcGD4HknepQ
+
 Attempts # | Your Guess | Word
 --- |------------| ---
 1st | knife      |alums
